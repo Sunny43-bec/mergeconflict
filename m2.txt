@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creating the file and naming the file name same for conflict
+=======
+adding the file 
+>>>>>>> fb
